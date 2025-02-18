@@ -16,7 +16,7 @@
 
   <!-- Description that appears within Hacknet -->
   <Description> --- Codex Connect ---
-Use your terminal and your browser to complete missions!</Description>
+Используйте терминал и браузер для выполнения миссий!</Description>
   
   <!-- Factions involved in this extension! You can define as many or as few as you like -->
   <Faction>Factions/StartingFaction.xml</Faction>
@@ -57,10 +57,10 @@ Use your terminal and your browser to complete missions!</Description>
         public string WorkshopTags;
         public string WorkshopPreviewImagePath;
   -->
-  <WorkshopDescription>This extension requires the use of a terminal and real-world tools to complete missions. To get started, you will need to install a terminal emulator or a compatible environment. I recommend using Ubuntu WSL (Windows Subsystem for Linux) or Cygwin if you are running Windows. Also you need to use GIT. Enjoy your journey into the world of hacking and programming Codex Connect!</WorkshopDescription>
+  <WorkshopDescription>Это расширение требует использования терминала и реальных инструментов для выполнения миссий. Чтобы начать работу, вам нужно установить эмулятор терминала или совместимую среду. Я рекомендую использовать Ubuntu WSL (Windows Subsystem for Linux) или Cygwin, если вы работаете под Windows. Также вам необходимо установить GIT. Наслаждайтесь своим путешествием в мир хакинга и программирования с Codex Connect!</WorkshopDescription>
 
   <!-- Language that this is set to. -->
-  <WorkshopLanguage>English</WorkshopLanguage>
+  <WorkshopLanguage>Russian</WorkshopLanguage>
 
   <!-- Sets the visibility of this item on the workshop.
   0 = public

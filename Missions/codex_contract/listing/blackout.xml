@@ -7,15 +7,15 @@
   <missionEnd val="1">addRank</missionEnd>
   <nextMission>NONE</nextMission>
   <posting title="Operation Blackout">
-This operation is focused on dismantling a dangerous network involved in criminal activities.
+Эта операция направлена на ликвидацию опасной сети, занимающейся преступной деятельностью.
   </posting>
   <email>
     <sender>Codex Connect Hub Services</sender>
-    <subject>Operation Blackout</subject>
-    <body>Hey #PLAYERNAME#!
-As part of our critical mission to dismantle a dangerous network involved in criminal activities, we need to take immediate and comprehensive action to eliminate all traces of this network. Additionally, I need you to upload a pdf file called "ADDRESS_BLACKOUT.pdf" that is located somewhere on that network, it contains the address of the main server of the network. This should be a simple task for you.
+    <subject>Операция Блэкаут</subject>
+    <body>Привет, #PLAYERNAME#!
+В рамках нашей важной миссии по уничтожению опасной сети, вовлеченной в преступную деятельность, нам необходимо принять немедленные и комплексные меры по ликвидации всех следов этой сети. Кроме того, мне нужно, чтобы вы загрузили pdf-файл под названием «ADDRESS_BLACKOUT.pdf», который находится где-то в этой сети, он содержит адрес главного сервера сети. Это должно быть простой задачей для вас.
 
-Best regards,
+С наилучшими пожеланиями,
 Codex Connect Hub Services
     </body>
     <attachments>

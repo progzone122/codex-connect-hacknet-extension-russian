@@ -16,9 +16,10 @@
   -->
   <email>
     <sender>Bjarne</sender>
-    <subject>Invitation</subject>
-    <body>Hi, im the manager of Codex Contract Listing. Congratulations on reaching here! I sent you a contract listing as an attachment. Reply this email when you are done.
-Have a nice day!
+    <subject>Приглашение</subject>
+    <body>Здравствуйте, я менеджер Codex Contract Listing. Поздравляю с тем, что вы дошли до этого момента! Я отправил вам список контрактов во вложении.
+Пожалуйста, ответьте на это письмо, когда закончите.
+Всего хорошего!
 </body>
     <attachments>
       <link comp="codex_contract_listing" />

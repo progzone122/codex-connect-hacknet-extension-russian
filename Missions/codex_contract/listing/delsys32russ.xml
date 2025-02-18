@@ -14,17 +14,17 @@
   <missionEnd val="1">addRank</missionEnd>
   <nextMission>NONE</nextMission>
   <posting title="Infiltration">
-Infiltrate by faking agency and access a Russian Government Company.
+Проникните в российскую правительственную компанию с помощью подставного агентства.
   </posting>
   <email>
     <sender>Codex Connect Hub Services</sender>
-    <subject>Infiltration</subject>
-    <body>Hey #PLAYERNAME#!
-I am writing to brief you on a critical mission that involves infiltrating a Russian government company by faking an agency. The objective is to gain access to sensitive information that could be pivotal for our operations. In our team, we had a expert guy and he Infiltrated as Alexei Smirnov, altought he was arrested by being accused as pedophile. So i want you to get into his account and read the e-mails.
+    <subject>Проникновение</subject>
+    <body>Привет, #PLAYERNAME#!
+Я пишу, чтобы проинформировать вас о важном задании, которое заключается в проникновении в российскую правительственную компанию с помощью подставного агентства. Цель - получить доступ к секретной информации, которая может стать ключевой для наших операций. В нашей команде был специалист, который внедрился под именем Alexei Smirnov, хотя его арестовали, обвинив в педофилии. Поэтому я хочу, чтобы вы проникли в его аккаунт и прочитали письма.
 
-Download and upload into our upload server with every info of "RussTek". They always store information with .env extension file. Also delete every single file in path sys folder of every "RussTek" related private servers possible. 
+Скачайте и загрузите на наш сервер всю информацию о «RussTek». Они всегда хранят информацию в файле с расширением .env. Также удалите все файлы по пути path sys всех частных серверов, связанных с «RussTek».
 
-Best regards,
+С наилучшими пожеланиями,
 Codex Connect Hub Services
     </body>
     <attachments>

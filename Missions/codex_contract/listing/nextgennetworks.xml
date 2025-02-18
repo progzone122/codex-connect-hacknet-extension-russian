@@ -8,16 +8,16 @@
   <missionEnd val="1">addRank</missionEnd>
   <nextMission>NONE</nextMission>
   <posting title="Inexistent DB">
-A mysterious database has been missing for months. Many obstacles have appeared, and no one has been able to find it yet.
+Таинственная база данных пропадает уже несколько месяцев. Появилось множество препятствий, но никто до сих пор не смог ее найти.
   </posting>
   <email>
     <sender>Codex Connect Hub Services</sender>
     <subject>Inexsistent DB</subject>
-    <body>Hey #PLAYERNAME#!
-The objective is to locate and retrieve a file named database.sqlite. This file is critical to our operations, and its recovery is of the utmost importance.
-Conduct a thorough search across all our systems, servers, and backup locations for any tips to get that file.
-According to an Itallian ex-worker Callisto Antonello of NextGen Networks, this file might be hidden deep within our systems. Please upload database.sqlite.
-Best regards,
+    <body>Привет, #PLAYERNAME#!
+Задача состоит в том, чтобы найти и извлечь файл с именем database.sqlite. Этот файл критически важен для нашей работы, и его восстановление имеет первостепенное значение.
+Проведите тщательный поиск по всем нашим системам, серверам и местам резервного копирования в поисках любых подсказок для получения этого файла».
+По словам бывшего сотрудника NextGen Networks итальянца Каллисто Антонелло, этот файл может быть спрятан глубоко в наших системах. Пожалуйста, загрузите файл database.sqlite.
+С наилучшими пожеланиями,
 Codex Connect Hub Services
     </body>
     <attachments>

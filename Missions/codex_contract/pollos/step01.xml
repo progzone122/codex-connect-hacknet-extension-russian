@@ -8,9 +8,9 @@
   <nextMission>Missions\final_mission.xml</nextMission>
   <email>
     <sender>Codex Connect Hub Services</sender>
-    <subject>CEO Of Pollos Hermanos</subject>
+    <subject>Генеральный директор компании Pollos Hermanos</subject>
     <body>
-Try to get into gustavo fring personal laptop administration access.
+Попробуйте получить административный доступ к личному ноутбуку gustavo fring.
     </body>
     <attachments>
       <link comp="lospolloshermanos" />

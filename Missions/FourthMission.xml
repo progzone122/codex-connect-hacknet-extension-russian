@@ -14,16 +14,16 @@
   -->
   <email>
     <sender>Guido Rossum</sender>
-    <subject>Pre-Invitation</subject>
-    <body>That was amazing, i never thought that you could do these things so easily, your skills are amazing, and you can do so much with that.
-I present you with an invitation to a private team called Codex Connect, they only get the best people to do tasks. But before going in, you must create a pull request in our GitHub repository.
-You must store your name on variable in precodex.sh and show your name in terminal
-I will send you a note on how to do it.
+    <subject>Предварительное приглашение</subject>
+    <body>Это было потрясающе, я никогда не думал, что вы можете делать такие вещи так легко, ваши навыки потрясающие, и вы можете сделать так много с этим.
+Я предлагаю вам приглашение в закрытую команду под названием Codex Connect, в которую набирают только лучших людей для выполнения задач. Но прежде чем войти, вы должны создать pull request в нашем репозитории GitHub.
+Вы должны сохранить свое имя в переменной в файле precodex.sh и показать его в терминале.
+Я пришлю вам записку о том, как это сделать.
 Good luck!
 </body>
     <attachments>
       <note title="Github REPO">https://github.com/codex-connect-hacknet/pre-codex-inv
-Read the readme, add your name in precodex.sh bash script.
+Прочитайте readme, добавьте свое имя в bash-скрипт precodex.sh.
 </note>
     </attachments>
   </email>

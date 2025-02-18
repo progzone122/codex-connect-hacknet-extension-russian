@@ -7,16 +7,17 @@
   <missionEnd val="1">addRank</missionEnd>
   <nextMission>NONE</nextMission>
   <posting title="Half Life 3">
-You already know, lets get that damn game!
+Вы уже знаете, давайте достанем эту чертову игру!
   </posting>
   <email>
     <sender>Codex Connect Hub Services</sender>
     <subject>Half Life 3</subject>
-    <body>Hey #PLAYERNAME#!
-There is a leak of beta realease half life 3. The objective is to get that, start scanning the website valve corporation using host command in your actual terminal.
-Connect that ip, do not forget to use arp tool.
+    <body>Привет, #PLAYERNAME#!
+Произошла утечка бета-версии half life 3. Задача состоит в том, чтобы получить ее.
+Начните со сканирования сайта valve corporation с помощью команды host в терминале.
+Подключитесь к этому ip, не забудьте использовать инструмент arp.
 
-Best regards,
+С уважением,
 Codex Connect Hub Services
     </body>
     <attachments>

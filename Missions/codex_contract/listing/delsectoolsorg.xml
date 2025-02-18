@@ -10,14 +10,15 @@
   <missionEnd val="1">addRank</missionEnd>
   <nextMission>NONE</nextMission>
   <posting title="IP Lookup">
-Find IP by domain and remove it.
+Найдите IP по домену и удалите его.
   </posting>
   <email>
     <sender>Codex Connect Hub Services</sender>
-    <subject>IP Lookup</subject>
-    <body>Hey #PLAYERNAME#!
-You need to find the IP address for the domain "sectools.org". Try to ping it or use the host command on your current system. After you get the IP address, delete all listing documents. We need to remove them because they will change the domain's IP, so remove it!
-Best regards,
+    <subject>Поиск IP-адреса</subject>
+    <body>Привет, #PLAYERNAME#!
+Вам нужно найти IP-адрес домена "sectools.org". Попробуйте выполнить команду ping или использовать команду host на вашей текущей системе. После получения IP-адреса удалите все документы со списками. Нам нужно удалить их, так как IP-адрес домена будет изменён, поэтому удалите их!
+
+С наилучшими пожеланиями,
 Codex Connect Hub Services
     </body>
     <attachments>

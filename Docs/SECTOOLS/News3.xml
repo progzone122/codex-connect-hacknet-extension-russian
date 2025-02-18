@@ -3,7 +3,7 @@
   <goals>
   </goals>
   <nextMission>NONE</nextMission>
-  <posting title="Nessus">Nessus is a widely used vulnerability scanner developed by Tenable, Inc. It helps identify vulnerabilities, configuration issues, and compliance violations in networks, systems, and applications.
+  <posting title="Nessus">Nessus - широко распространенный сканер уязвимостей, разработанный компанией Tenable, Inc. Он помогает выявлять уязвимости, проблемы с конфигурацией и нарушения нормативных требований в сетях, системах и приложениях.
   </posting>
   <email>
     <sender>NONE</sender>
